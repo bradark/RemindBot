@@ -1,0 +1,22 @@
+{
+  "name": "remindbot",
+  "version": "1.0.0",
+  "description": "a reminder bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradark/RemindBot.git"
+  },
+  "author": "lilcpap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradark/RemindBot/issues"
+  },
+  "homepage": "https://github.com/bradark/RemindBot#readme",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
